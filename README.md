@@ -1,6 +1,5 @@
 # notepadCsharp
 Proyecto NotePad con C# que incluye lo siguiente:
-
 Formulario único con un ícono, título. 
 Un richtextbox acoplado en todo el documento.
 Un menustrip y un toolstrip acoplado en la parte superior que contengan los icónos estándar que agrega Visual Studio más los de negrita, itálica, subrayado.
